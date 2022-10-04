@@ -15,13 +15,11 @@
 
 @media screen and (min-width: 425px) and (max-width: 768px) {
   .header__logo {
-    height: 42px;
+    width: calc(100vw * 0.8);
   }
 }
 
 @media screen and (max-width: 425px) {
   .header__logo {
-    width: 142px;
-    height: 42px;
   }
 }
