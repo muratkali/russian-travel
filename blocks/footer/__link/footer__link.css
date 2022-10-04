@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 18px;
+  line-height: 1.1;
   text-align: left;
   color: white;
   list-style: none;
@@ -28,7 +28,7 @@
   .footer__link {
     margin: 0 0 32px;
     font-size: 24px;
-    line-height: 24px;
+    line-height: 1;
   }
 }
 
@@ -36,6 +36,6 @@
   .footer__link {
     margin: 0 0 32px;
     font-size: 24px;
-    line-height: 24px;
+    line-height: 1;
   }
 }
