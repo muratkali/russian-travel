@@ -6,11 +6,7 @@
   line-height: 76px;
   text-align: center;
   color: white;
-  position: absolute;
   max-width: 560px;
-  top: 33%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   margin: 0 0 32px;
 }
 
