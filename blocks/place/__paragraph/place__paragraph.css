@@ -14,24 +14,25 @@
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
-  .place__title {
+  .place__paragraph {
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1024px) {
-  .place__title {
+  .place__paragraph {
+    font-size: 16px;
   }
 }
 
 @media screen and (min-width: 425px) and (max-width: 768px) {
-  .place__title {
+  .place__paragraph {
     font-size: 16px;
     margin: 0 0 25px;
   }
 }
 
 @media screen and (max-width: 425px) {
-  .place__title {
+  .place__paragraph {
     font-size: 16px;
     margin: 0 0 25px;
   }

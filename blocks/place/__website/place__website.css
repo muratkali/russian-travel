@@ -1,5 +1,5 @@
 .place__website {
-  align-self: center;
+  align-self: end;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
