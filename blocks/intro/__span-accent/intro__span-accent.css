@@ -1,5 +1,4 @@
-.intro__list {
-  font-weight: 700;
+.intro__span-accent {
   font-size: 12px;
   line-height: 1.5;
   text-align: left;
@@ -7,4 +6,5 @@
   margin: 0;
   padding: 0;
   list-style: none;
+  font-weight: 400;
 }
