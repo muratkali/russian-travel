@@ -4,6 +4,7 @@
   grid-template-columns: 460px 1fr;
   grid-template-rows: 1fr;
   grid-gap: 48px 40px;
+  max-width: 984px;
 }
 
 .place:last-of-type {

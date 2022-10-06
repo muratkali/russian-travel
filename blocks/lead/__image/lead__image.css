@@ -1,4 +1,5 @@
 .lead__image {
   margin: 0 auto 8px;
   width: 100%;
+  max-width: 984px;
 }
